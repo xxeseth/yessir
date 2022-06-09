@@ -1,0 +1,15 @@
+{
+  "CONTRACT_ADDRESS": "0xC4f90295AF4F40462E03ffcc73881A8217c80c6e",
+  "SCAN_LINK": "https://etherscan.com/token/0xC4f90295AF4F40462E03ffcc73881A8217c80c6e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "plops.wtf",
+  "SYMBOL": "pppllpppps",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
